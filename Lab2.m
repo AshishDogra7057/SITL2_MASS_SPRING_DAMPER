@@ -1,5 +1,5 @@
 %Mass Spring Damper system
-%% Chirag_3035
+%% ASHISH_DOGRA_3027
 clc;clear all;close all;
 F=8;
 M=20;
